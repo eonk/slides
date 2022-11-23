@@ -1,0 +1,362 @@
+---
+title: "Evidence-based Policing"
+subtitle: "Criminology<br/>University of Manchester"
+author: "Eon Kim"
+date: "Novemeber 25, 2022"
+output:
+  xaringan::moon_reader:
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+background-image: url(https://user-images.githubusercontent.com/98951792/203191256-48b3fb16-c7b4-4e6c-8285-624a65b74ffa.png)
+background-size: 400px
+background-position: 10% 60%
+
+# <p style="color:grey">Why Evidence-based policing is important <br /> to today's policing?</p>
+
+.pull-right[
+*Lawrence Sherman, 1998*  
+*Ideas in American Policing*
+
+
+**“Police practices should be based on scientific evidence about what works best"**
+]
+---
+
+# <p style="color:grey">What does 'evidence-based' mean?</p>
+<img src="https://user-images.githubusercontent.com/98951792/203455893-b7df9346-9398-4633-9fa1-ddaffda7842c.png" width="20%"/ style="float:left"> 
+
+<p>&nbsp;</p>
+
+## "ok, let me ask a question. <br /> Which medicine would you take?"
+
+--
+.pull-left[<p style="color:purple">Medicine A </p> This medicine is approved by FDA for the treatment of yumyum disease... the experiemets... 5k adults for 3 years...
+
+]
+
+--
+.pull-right[<p style="color:purple">Medicine B </p> Mate, trust me, you should take one liter of ginger and garlic juice everyday. then yumyum disease will be gone. It worked for my uncle's friend's sister's boy friend's dad
+]
+
+---
+
+# <p style="color:grey">What does 'evidence-based' mean?</p>
+<img src="https://user-images.githubusercontent.com/98951792/203384170-ce5d2ac7-435c-47b8-be7a-21c8cfcfd3ff.png" width="20%"/ style="float:left"> 
+
+<p>&nbsp;</p>
+
+### "Please say you pick 'Medicine A'"
+
+<p>&nbsp;</p>
+
+.pull-left[<p style="color:purple">👩🏽‍⚕️ Medicine A </p> This medicine is approved by FDA for the treatment of yumyum disease... the experiemets... 5k adults for 3 years...
+
+]
+
+
+.pull-right[<p style="color:purple">🧙🏼‍️ Medicine B </p> Mate, trust me, you should take one liter of ginger and garlic juice everyday. then yumyum disease will be gone. It worked for my uncle's friend's sister's boy friend's dad
+]
+
+---
+
+#<p style="color:grey">What does 'evidence-based' mean?</p>
+
+This medicine is approved by FDA for the treatment of YumYum disease.
+
+--
+<p>&nbsp;</p>
+
+##It means...
+
+###👩‍🔬The medicine's effects have been scientifically approved, and we know it does work. 
+###🧑‍🔬There is significant evidence about "what works" in treating the YumYum disease
+
+---
+<img src="https://user-images.githubusercontent.com/98951792/203197921-07bcf0d5-4772-418c-864e-d03b3fec9373.png" width="20%"/ style="float:left"> 
+##"let's apply evidence-based medicine to <br /> evidence-based policing!"
+
+--
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+.pull-left[👩‍🔬 This medical tests were replicated in different settings and places, on different people.]
+
+--
+.pull-right[👉 👮 ️The evidence in policing has many generalisations which can be used in different physical settings.]
+
+--
+<p>&nbsp;</p>
+.pull-left[🧑‍🔬 Because of research, we know the medicine has a very rare chance of harming patients
+
+]
+
+--
+.pull-right[👉👮 Some police interventions increase crime/recidivism/victimisation rates.
+
+]
+
+---
+#<p style="color:grey">But habits are hard to break...</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203202477-ca621862-cc4b-4c39-b251-f3cddfbf575b.png" width="15%"/ style="float:left"> 
+### 'The Doctor Who Championed Hand-Washing And Briefly Saved Lives'
+
+<div align="right">[@click here for npr articles](https://www.npr.org/sections/health-shots/2015/01/12/375663920/the-doctor-who-championed-hand-washing-and-saved-women-s-lives)</div>
+<p>&nbsp;</p>
+"What Semmelweis had discovered is something that still holds true today: Hand-washing is one of the most important tools in public health. It can keep kids from getting the flu, prevent the spread of disease and keep infections at bay...
+Semmelweis kept trying to convince doctors in other parts of Europe to wash with chlorine, but no one would listen to him."
+
+"Hundreds of thousands of women died because of the profession refused to comply with his evidence-based guildlines for some forty years..."(Sherman, 1998, ***Evidence-based policing***)
+
+---
+#<p style="color:grey">Research to support evidence-based policing</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203389096-3a6e466b-d7ca-4655-b190-e55762062ae2.png" width="30%"/style="float:left"> 
+
+###&emsp;&emsp; “Evidence-based policing means that **the best available evidence** is used to inform and challenge policing policies, practices and decisions.
+###&emsp;&emsp; An evidence-based policing approach can be used by everyone in policing. It can be supported by collaboration with academics and other partners." (College of Policing, 2022)
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+.right[@Spooner and Hughes, 2022 ***Police Research and Evidence-Based Policing***]
+---
+#<p style="color:grey">Research to support evidence-based policing</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203445558-e2f38684-57a9-4762-a99e-9b8a2f930c82.png" width="15%"/ style="float:left">
+###"Is this evidence-based?. Dobby wants to know- "
+<img src="https://user-images.githubusercontent.com/98951792/203445530-7aa29b6c-9a43-4cf0-bc51-c11fcb80f2b1.png" width="60%">
+
+--
+
+<img src="https://user-images.githubusercontent.com/98951792/203442271-7fb4c26b-a1bc-4da2-9349-36645af4ca6b.png" width="15%"/ style="float:right">
+###"It depends...if the sorting hat make the decision based on empirical, scientific, controlled research"
+
+---
+#<p style="color:grey">Evidence-based poincing in action</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<img src="https://user-images.githubusercontent.com/98951792/203441875-bbac5be6-1246-4e06-bf49-f8d22f09ef91.png" width="15%"/ style="float:left">
+##"Yeah, yeah, yeah then <br /> how does evidence-based polcing work?"
+
+--
+<p>&nbsp;</p>
+<img src="https://user-images.githubusercontent.com/98951792/203193249-a4ee93be-f968-46be-89b4-d6ae82bd178f.png" width="15%"/ style="float:right">
+##"hmmm- let's me give you some examples of <br /> evidence-based policing in actions"
+
+---
+#<p style="color:grey">Evidence-based poincing in action</p>
+###Case 1: Targeted policing in high-crime areas reduces youth violence
+####<p style="color:purple">Evidence</p> 
+The Youth Endowment Fund (YEF) revealed that hot spots policing on average reduces violent crime by 14 per cent and overall offending by 17 per cent. It said the findings are backed by the results from recent police trials, with one force seeing violent crime drop by as much as 74 per cent.
+
+####<p style="color:purple">Policing recommendation</p> 
+The dedicated teams including Operation Reacher, burglary, knife crime, robbery and neighbourhood policing teams are now out and about every day in hot-spot locations across Nottinghamshire protecting the public and preventing crime as well as relentlessly pursuing offenders who break the law.
+
+######[@Targeted policing in high-crime areas reduces youth violence, research finds](https://www.policeprofessional.com/news/targeted-policing-in-high-crime-areas-reduces-youth-violence-research-finds/)
+---
+#<p style="color:grey">Evidence-based poincing in action</p>
+###Case 2: The use of evidence-based policing platform
+####<p style="color:purple">Evidence</p> 
+The Delaware State Police (DSP) uses a SAS-powered analytics platform that aggregates and analyzes data from multiple sources such as organizational data, traffic citations, criminal incidents and statewide calls for law enforcement service. It looks at the data to understand the nature of the crime, determine how police can devise appropriate responses and then measure the impact of those responses.
+
+####<p style="color:purple">Policing recommendation</p>
+In the past, the range of officers may be using five or six different tools to do their job. Now, DSP has a centralized infrastructure that gives the public safety community shared records management and computer-aided dispatch capabilities.
+
+######[@Evidence-based policing platform boosts state police effectiveness](https://gcn.com/data-analytics/2022/02/evidence-based-policing-platform-boosts-state-police-effectiveness/361851/)
+---
+#<p style="color:grey">Evidence-based poincing in action</p>
+###Case 3: Repeat offenders and crime variations
+####<p style="color:purple">Evidence</p> 
+Crime risks vary consistently and are typically concentrated by the time of day, the day of the week, season, type of holiday and even weather conditions. Additionally, only a few offenders commit most of the crime. Some estimates show that just 3-5 percent of the population commit 50-60 percent of crime. Additionally, based on the “power few” or loosely connected 20/80 rule, 80 percent of all crime might be committed by 20 percent of the population.
+
+####<p style="color:purple">Policing recommendation</p> 
+With the assistance of a crime analyst, track repeat offenders for repeat offenses and monitor when they are in and out of jail. Staff your patrol teams when crime is the highest. Also, after assessing the data, use crime reduction teams to target hot places, hot people and hot times. Avoid random patrol and consider a focused offender approach – partner with probation, parole and prosecution.
+
+---
+#<p style="color:grey">Evidence-based poincing in action</p>
+###Case 4: Hot spot policing
+####<p style="color:purple">Evidence</p> 
+If police assessed the data and patrolled hot places sporadically and unpredictably every two hours for 10-16 minutes they could have a measurable impact on crime with a policing strategy known as the “Koper Curve.”. In Sacramento, a hot spot study was conducted involving an intervention area (the hot spot patrols), which was then compared to a control area or (business was usual). The result fount crime incidents decreased 25 percent in the intervention (treatment) hot spots compared to the business as usual (control) hot spots (where crime incidents rose 27 percent).
+
+####<p style="color:purple">Policing recommendation</p> 
+If police leaders can place an officer in that hot spot for 15 minutes unpredictably and sporadically, then research shows a decrease in crime that lasts for 2 hours. Suddenly, this becomes much more realistic and manageable.
+---
+#<p style="color:grey">Evidence-based poincing in action</p>
+###Case 5: Burglary risks
+####<p style="color:purple">Evidence</p> 
+Predictable risk of residential burglary occurs in the areas to the side, front and behind the victim’s residence for the first 10-14 days after the crime. This evidence has been ignored for years and was just recently tested in Redlands, California, and Baltimore City, Maryland.
+
+####<p style="color:purple">Policing recommendation</p> 
+After a burglary warn neighbors of their risk and suggest ways in which they can target harden their residence such as locking back windows; utilizing ring technology, video surveillance, alarms and motion lights; cutting away shrubbery; and encouraging more guardianship of neighbors.
+---
+#<p style="color:grey">Evidence-based poincing in action</p>
+###Case 6: Domestic homicide predictors
+####<p style="color:purple">Evidence</p> 
+Thames Valley Police (UK) records were examined for 118 victims and 120 offenders in 118 cases of “deadly” domestic violence: murder, attempted murder, manslaughter and grievous bodily harm. The case-control study found male offenders who committed serious domestic assaults were over three times more likely than other violent offenders to have had markers of suicidal tendencies
+
+####<p style="color:purple">Policing recommendation</p> 
+Use this information as a threat matrix and tailor services accordingly. If there are those suicidal tendencies, utilize support services and other partners for prevention.
+---
+#<p style="color:grey">Evidence-based poincing in action</p>
+###Case 7: Cognitive interviewing techniques
+####<p style="color:purple">Evidence</p> 
+According to several studies, cognitive interviewing techniques, or asking open-ended questions, reinstating the context by eliciting memory retrieval cues, and focusing on sensory details – resulted in 25-40 percent more details. Many U.S. local police do not practice cognitive interviewing techniques when speaking to victims and witnesses of violent crime, despite significant evidence that shows the victim will feel heard, empowered, and less often felt re-victimized.
+####<p style="color:purple">Policing recommendation</p> 
+Show empathy – acknowledge trauma and pain, use open-ended questions, i.e., “tell me more” and “help me understand.” Use powerful retrieval cues like smell and sound. Ask impact questions – “How has this impacted you? What can’t you forget about the experience?”
+---
+#<p style="color:grey">Bridge the divide between <br /> academic research and police practice</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203193249-a4ee93be-f968-46be-89b4-d6ae82bd178f.png" width="15%"/ style="float:left">
+##"What more is needed for evidence-based policing to bridge the divide between academic research and police practice?"
+
+<p>&nbsp;</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203454682-48ad98b7-e1dc-4761-894a-a81057148500.png" width="15%"/ style="float:right">
+##.right["Maybe..."]
+
+---
+#<p style="color:grey">Bridge the divide between <br /> academic research and police practice</p>
+
+###1. Transferring scientific knowledge to the practice community
+"Unfortunately, EBP remains a foreign concept to millions of police officers and leaders around the world (Sherman, 2015). While higher-ranking officers exhibit more knowledge of EBP than lower-ranking officers, they tend to define it in a way that is different from the intended meaning (Telep & Bottema, 2020)...
+
+[the knowlege tranfer] could be further assisted by involving police practitioners directly in the interpretation of findings and discussion of their implications for policy and practice...the development and delivery of an EBP training program for mid-level command staff..."
+
+######Piza and Welsh (2022) ***Evidence‐Based Policing Is Here to Stay: Innovative Research, Meaningful Practice, and Global Reach***
+---
+#<p style="color:grey">Bridge the divide between <br /> academic research and police practice</p>
+
+###2. Empow- ering officers to conduct police-led science
+"There are a number of inherent limitations in such an approach, including the typically slow-moving process of research not fitting an expedited timeline needed to inform policy and practice, and academic researchers lacking the skill to help with specific problems facing practitioners. For such reasons, Sherman (2011) proposes a move towards a model of police-led science, which puts police officers at the fore- front of generating evidence, with agencies empowering their officers to develop and test research questions."
+
+---
+#<p style="color:grey">Bridge the divide between <br /> academic research and police practice</p>
+
+###3. Aligning the work of researchers and practitioners
+"Researcher-practitioner partnerships can provide an environment that fosters evidence-based policing, especially when both parties contribute to problem identification, strategy development, and strategy implementation (Mock, 2010). A partnership environment helps both sides to navigate the competing interests and incentive structures of academia and policing."
+
+---
+#<p style="color:grey">Bridge the divide between <br /> academic research and police practice</p>
+
+###4. Incorporating evidence-based policing in daily police functions
+"A wide range of innovative approaches have been carried out in recent years as part of a growing effort to embed evidence-based policing principles in daily police functions; the Evidence-Based Policing Matrix (Lum et al., 2010), CompStat360 platform etc.
+
+...The New Zealand Police Service’s Evidence-Based Policing Centre (EBPC) is structured around four key functions: (a) data science; (b) performance, research, and insights; (c) delivery and improve- ments; and (d) implementation and evaluation.
+
+...Two main perspectives guide [the Cambridge Police Executive Programme (CPEP)]’s approach to EBP: (a) EBP should serve as a “general framework for making decisions” and (b) EBP is a “strategy for organizing police activities around a holistic mission of reducing total harm from crimes” (Sherman, 2022: 301)."
+
+---
+#<p style="color:grey">Tutorial Question for this week <br /> 'Crime Reduction Toolkit'</p>
+<img src="https://user-images.githubusercontent.com/98951792/203454979-2fec70fb-7b26-4945-a1f6-7ac04679ea69.png" width="15%"/ style="float:left">
+###"I am interested in the impact of **Boot-camps** intervention on crime and want to know how it works"
+
+<p>&nbsp;</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203193249-a4ee93be-f968-46be-89b4-d6ae82bd178f.png" width="15%"/ style="float:right">
+<p>&nbsp;</p>
+###.right["There is a toolkit developed by other researchers. <br /> Let's have a look!"]
+
+---
+#<p style="color:grey">Tutorial Question for this week <br /> 'Crime Reduction Toolkit'</p>
+<img src="https://user-images.githubusercontent.com/98951792/203469529-0247504d-625c-4414-b9bb-98076bbc3be4.png">
+[@Crime Reduction Toolkit](https://www.college.police.uk/research/crime-reduction-toolkit)
+---
+#<p style="color:grey">Tutorial Question for this week <br /> 'Crime Reduction Toolkit'</p>
+
+####boot camps: Military-style boot camps for young people or adult offenders as an alternative to prison or probation.
+<img src="https://user-images.githubusercontent.com/98951792/203469868-c31cb490-0428-4590-a62c-bff216700636.png">
+
+<img src="https://user-images.githubusercontent.com/98951792/203193249-a4ee93be-f968-46be-89b4-d6ae82bd178f.png" width="20%"/ style="float:right">
+
+###.right["Based on systemic review, it found "there is some evidence that the intervention has either increased or reduced crime, but overall the intervention has not had a statistically significant effect on crime""]
+
+---
+<img src="https://user-images.githubusercontent.com/98951792/203469868-c31cb490-0428-4590-a62c-bff216700636.png">
+
+<img src="https://user-images.githubusercontent.com/98951792/203454979-2fec70fb-7b26-4945-a1f6-7ac04679ea69.png" width="15%"/ style="float:left">
+###"How strong is the evidence?(Effect)"
+--
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203455893-b7df9346-9398-4633-9fa1-ddaffda7842c.png" width="15%"/ style="float:right">
+
+###<p style="color:grey">"Biases remain within the primary studies, including the difficulties of comparing boot camps to one another due to differences in treatments, the use of different outcome measures by researchers, and the problem of drop-out rates and how to take these into consideration when calculating effect sizes."</p>
+
+---
+<img src="https://user-images.githubusercontent.com/98951792/203469868-c31cb490-0428-4590-a62c-bff216700636.png">
+
+<img src="https://user-images.githubusercontent.com/98951792/203454979-2fec70fb-7b26-4945-a1f6-7ac04679ea69.png" width="15%"/ style="float:left">
+###"How does it work?(Mechanism)"
+--
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203197921-07bcf0d5-4772-418c-864e-d03b3fec9373.png" width="20%"/ style="float:right">
+
+###<p style="color:grey">"By ensuring strict discipline and demanding physical exercise and labour, participants are encouraged to behave respectfully and obediently, hopefully making them more likely to comply with rules or laws upon programme completion."</p>
+
+---
+<img src="https://user-images.githubusercontent.com/98951792/203469868-c31cb490-0428-4590-a62c-bff216700636.png">
+
+<img src="https://user-images.githubusercontent.com/98951792/203454979-2fec70fb-7b26-4945-a1f6-7ac04679ea69.png" width="15%"/ style="float:left">
+###"In which contexts does it work best?(Moderators)"
+--
+<p>&nbsp;</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203193249-a4ee93be-f968-46be-89b4-d6ae82bd178f.png" width="20%"/ style="float:right">
+
+###<p style="color:grey">"The reviews noted a number of potential moderators, including offender characteristics (age and gender), programme characteristics (focus on rehabilitative or physical elements), treatments (drug treatment, vocational education and aftercare components), whether the programme was voluntary or mandated, and the presence of counselling sessions as part of the programme."</p>
+
+---
+<img src="https://user-images.githubusercontent.com/98951792/203469868-c31cb490-0428-4590-a62c-bff216700636.png">
+
+<img src="https://user-images.githubusercontent.com/98951792/203454979-2fec70fb-7b26-4945-a1f6-7ac04679ea69.png" width="15%"/ style="float:left">
+###"What can be said about implementing this initiative?(Implementation)"
+--
+<p>&nbsp;</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203193249-a4ee93be-f968-46be-89b4-d6ae82bd178f.png" width="20%"/ style="float:right">
+
+###<p style="color:grey">"...studies evaluating boot camps with a strong therapeutic element seemed to have a higher chance of a successful outcome than those with a weaker or no therapeutic focus. <br>Review two suggested that aftercare services with therapeutic content are important and therefore should not be short term in duration."</p>
+
+---
+<img src="https://user-images.githubusercontent.com/98951792/203469868-c31cb490-0428-4590-a62c-bff216700636.png">
+
+<img src="https://user-images.githubusercontent.com/98951792/203454979-2fec70fb-7b26-4945-a1f6-7ac04679ea69.png" width="15%"/ style="float:left">
+###"How much might it cost?(Economic considerations)"
+--
+<p>&nbsp;</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203193249-a4ee93be-f968-46be-89b4-d6ae82bd178f.png" width="20%"/ style="float:right">
+
+###<p style="color:grey">"While none of the reviews conducted a full cost benefit analysis, some mention of costs was reported in the primary studies.<br>...Three studies within review three found that boot camps were cheaper than prison, while four studies found no difference."</p>
+
+---
+<img src="https://user-images.githubusercontent.com/98951792/203469868-c31cb490-0428-4590-a62c-bff216700636.png">
+
+<img src="https://user-images.githubusercontent.com/98951792/203454717-71368bde-08b0-4408-aa9e-2f00b80a3a87.png" width="30%"/ style="float:left">
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+###.left["Oh, in summary we can say... <br> - There is some evidence that the intervention has either increased or reduced crime, but overall the intervention has not had a statistically significant effect on crime. <br> - Boot camps with an evidence-based therapeutic focus see the largest reductions in recidivism among participants."]
+
+---
+<img src="https://user-images.githubusercontent.com/98951792/203469868-c31cb490-0428-4590-a62c-bff216700636.png">
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+<img src="https://user-images.githubusercontent.com/98951792/203455865-944fd8c8-641c-4072-a4c8-85beb6d14f91.png" width="20%"/ style="float:right">
+
+###"Yes, then when practioners implement boot camps interventions, they need to remember... <br>those boot camps that have seen the greatest reduction in participant reoffending, especially with juvenile populations, have focused upon therapeutic elements within the programmes."
+---
+class: inverse, center, middle
+####"Evidence-based practice it is not solely focused on being dependent on peer-reviewed research. Experience plays a vital role in evidence-based practice, only it’s not any old experience that counts here. There is experience and ***experience***. Understanding the role of experience in evidence based practice, and what types of experience that is matters."(Wilkinson, 2006)
+# Evidence-based Policing
+
+
