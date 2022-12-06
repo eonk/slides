@@ -1,7 +1,7 @@
 ---
 title: "Diversifying the Curriculum"
 subtitle: "Criminology<br/>University of Manchester"
-author: "Eon Kim"
+author: "Eon Kim & David Straw"
 institute: "Teacing Away day"
 date: "(updated: `r Sys.Date()`)"
 output:

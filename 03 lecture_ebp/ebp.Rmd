@@ -256,7 +256,7 @@ Show empathy – acknowledge trauma and pain, use open-ended questions, i.e., �
 ...Two main perspectives guide [the Cambridge Police Executive Programme (CPEP)]’s approach to EBP: (a) EBP should serve as a “general framework for making decisions” and (b) EBP is a “strategy for organizing police activities around a holistic mission of reducing total harm from crimes” (Sherman, 2022: 301)."
 
 ---
-#<p style="color:grey">Tutorial Question for this week <br /> 'Crime Reduction Toolkit'</p>
+#<p style="color:grey">'Crime Reduction Toolkit'</p>
 <img src="https://user-images.githubusercontent.com/98951792/203454979-2fec70fb-7b26-4945-a1f6-7ac04679ea69.png" width="15%"/ style="float:left">
 ###"I am interested in the impact of **Boot-camps** on crime and want to know how it works."
 
@@ -264,7 +264,7 @@ Show empathy – acknowledge trauma and pain, use open-ended questions, i.e., �
 <p>&nbsp;</p>
 
 <img src="https://user-images.githubusercontent.com/98951792/203193249-a4ee93be-f968-46be-89b4-d6ae82bd178f.png" width="20%"/ style="float:right">
-###.right["Yes, I saw the news about it. A party has pledged to send serious youth offenders to boot camps (officially called Young Offender Military Academies) if it wins the next election"]
+###.right["Yes, I saw the news about it. In NZ, a party has pledged to send serious youth offenders to boot camps (officially called Young Offender Military Academies) if it wins the next election"]
 
 
 ---
@@ -284,7 +284,7 @@ Show empathy – acknowledge trauma and pain, use open-ended questions, i.e., �
 
 ######[National’s youth offender ‘military academy’ idea slammed by experts](https://www.nzherald.co.nz/nz/its-a-joke-nationals-youth-offender-military-academy-idea-slammed-by-experts/OWJJJV2GTFFZPM7YBSAIYSBK3M/)
 ---
-#<p style="color:grey">Tutorial Question for this week <br /> 'Crime Reduction Toolkit'</p>
+#<p style="color:grey"> 'Crime Reduction Toolkit'</p>
 
 <img src="https://user-images.githubusercontent.com/98951792/203862584-39b1fe53-8a4e-4448-a4a7-18bf5329891f.png" width="15%"/ style="float:left">
 ###"What the policy’s advocates and detractors have said about Boot-camps is not the same...so 'WHAT WORKS'? Does the intervention reduce crime or not??"
@@ -300,11 +300,11 @@ Show empathy – acknowledge trauma and pain, use open-ended questions, i.e., �
 
 
 ---
-#<p style="color:grey">Tutorial Question for this week <br /> 'Crime Reduction Toolkit'</p>
+#<p style="color:grey"> 'Crime Reduction Toolkit'</p>
 <img src="https://user-images.githubusercontent.com/98951792/203469529-0247504d-625c-4414-b9bb-98076bbc3be4.png">
 [@Crime Reduction Toolkit](https://www.college.police.uk/research/crime-reduction-toolkit)
 ---
-#<p style="color:grey">Tutorial Question for this week <br /> 'Crime Reduction Toolkit'</p>
+#<p style="color:grey"> 'Crime Reduction Toolkit'</p>
 
 ####boot camps: Military-style boot camps for young people or adult offenders as an alternative to prison or probation.
 <img src="https://user-images.githubusercontent.com/98951792/203469868-c31cb490-0428-4590-a62c-bff216700636.png">
@@ -395,6 +395,9 @@ Show empathy – acknowledge trauma and pain, use open-ended questions, i.e., �
 <img src="https://user-images.githubusercontent.com/98951792/203455865-944fd8c8-641c-4072-a4c8-85beb6d14f91.png" width="20%"/ style="float:right">
 
 ###"Yes, then when practioners implement boot camps interventions, they need to remember... <br>those boot camps that have seen the greatest reduction in participant reoffending, especially with juvenile populations, have focused upon **therapeutic** elements within the programmes."
+
+--
+###"Now, what would be your 'crime reduction recommemdation' of boot-camps intervention? Shall we discuss?"
 ---
 class: inverse, center, middle
 ####"Evidence-based practice it is not solely focused on being dependent on peer-reviewed research. Experience plays a vital role in evidence-based practice, only it’s not any old experience that counts here. There is experience and ***experience***. Understanding the role of experience in evidence based practice, and what types of experience that is matters."(Wilkinson, 2006)
